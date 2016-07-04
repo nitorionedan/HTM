@@ -1,0 +1,1 @@
+http://pac.kanazawa-it.ac.jp/proxy.pac
